@@ -76,24 +76,24 @@ In addition to identifying when the problem occurs, we need to identify other va
 
 To find the version of WordPress you are running: 1 - Login to your WordPress site. 2 - Click the Dashboard icon at the top of the Dashboard sidebar. 3 - Take note of the WordPress version under the **At a Glance** panel: ![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance.png) What version of WordPress are you running? Is it the most current version? If it's not the most current version, you will see an Update button in the **At a Glance** panel: ![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance-update-1.png)
 
-### C - Plugins
+#### C - Plugins
 
 *   What plugins are installed?
 *   Are all the plugins current?
 *   Are there any plugins that haven't had updates in a while? Find the plugin you are using on WordPress.org (or from the paid plugin developer) and look at the last update date. Do you have the current version? Does it appear the plugin is no longer maintained?
 
-### D - Themes
+#### D - Themes
 
 *   What theme are you using? (See Troubleshooting Themes)
 *   Is the theme the current version?
 
-### E - Cache
+#### E - Cache
 
 *   Browser
 *   Web host
 *   Plugin
 
-### F - Local computer environment
+#### F - Local computer environment
 
 *   Browser and browser version
 *   Computer operating system and version
@@ -138,7 +138,7 @@ Wrap file names in the HTML element **code**: `style.css`
 2.  Answer
 3.  Answer
 
-**Correct Answer:** 3\. Answer
+**Answer:** 3\. Answer
 
 ### Question?
 
@@ -146,4 +146,4 @@ Wrap file names in the HTML element **code**: `style.css`
 2.  Answer
 3.  Answer
 
-**Correct Answer:** 2\. Answer   NOTES: Preventative Maintenance: *Backup *Update Issues: *WSOD *Missing Sidebar *Scheduled Posts, Missed Schedule *Maintenance Mode stuck First Steps: *What did I do last? You can reverse from there *Disable all plugins *Revert to default theme (twenty-xxxxxxx) *re-activate one-by-one or in small groups testing along the way WSOD: *Need to access
+**Answer:** 2\. Answer   NOTES: Preventative Maintenance: *Backup *Update Issues: *WSOD *Missing Sidebar *Scheduled Posts, Missed Schedule *Maintenance Mode stuck First Steps: *What did I do last? You can reverse from there *Disable all plugins *Revert to default theme (twenty-xxxxxxx) *re-activate one-by-one or in small groups testing along the way WSOD: *Need to access
