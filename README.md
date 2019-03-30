@@ -74,7 +74,13 @@ In addition to identifying when the problem occurs, we need to identify other va
 
 *   What version of WordPress is running?
 
-To find the version of WordPress you are running: 1 - Login to your WordPress site. 2 - Click the Dashboard icon at the top of the Dashboard sidebar. 3 - Take note of the WordPress version under the **At a Glance** panel: ![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance.png) What version of WordPress are you running? Is it the most current version? If it's not the most current version, you will see an Update button in the **At a Glance** panel: ![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance-update-1.png)
+To find the version of WordPress you are running: 1 - Login to your WordPress site. 2 - Click the Dashboard icon at the top of the Dashboard sidebar. 3 - Take note of the WordPress version under the **At a Glance** panel:
+
+![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance.png)
+
+What version of WordPress are you running? Is it the most current version? If it's not the most current version, you will see an Update button in the **At a Glance** panel:
+
+![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance-update-1.png)
 
 #### C - Plugins
 
@@ -116,7 +122,39 @@ Follow along...
 
 ### Code Examples
 
-Use shortcodes for each language to wrap code samples. For indentation, use 4 spaces. **PHP** [php] <p> <?php echo 'This line is indented with 4 spaces.'; ?> </p> [/php] **JavaScript** [js] jQuery( "body" ) .html( "This line is indented with 4 spaces.") [/js] **HTML** [html] <p> This line is indented with 4 spaces. </p> [/html] **CSS** [css] p { /* This line is indented with 4 spaces */ color: #ff0000; } [/css] **Generic with line numbers** [code] This is some generic code with line numbers [/code]
+Use shortcodes for each language to wrap code samples. For indentation, use 4 spaces.
+
+**PHP**
+```
+<?php
+    echo 'This line is indented with 4 spaces.';
+?>
+````
+
+**JavaScript**
+```
+jQuery( "body" ) .html(
+    "This line is indented with 4 spaces."
+)
+```
+
+**HTML**
+```
+    This line is indented with 4 spaces.
+```
+
+**CSS**
+```
+{
+    /* This line is indented with 4 spaces */ color: #ff0000;
+}
+```
+
+**Generic with line numbers**
+```
+    This is some generic code with line numbers
+```
+
 
 ### File Names
 
