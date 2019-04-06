@@ -74,13 +74,16 @@ In addition to identifying when the problem occurs, we need to identify other va
 
 *   What version of WordPress is running?
 
-To find the version of WordPress you are running: 1 - Login to your WordPress site. 2 - Click the Dashboard icon at the top of the Dashboard sidebar. 3 - Take note of the WordPress version under the **At a Glance** panel:
+To find the version of WordPress you are running:
+1 - Login to your WordPress site.
+2 - Click the Dashboard icon at the top of the Dashboard sidebar.
+3 - Take note of the WordPress version under the **At a Glance** panel:
 
-![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance.png)
+![dashboard-at-a-glance](https://user-images.githubusercontent.com/935397/55598149-87e93880-5766-11e9-83ac-58d16084329c.png)
 
 What version of WordPress are you running? Is it the most current version? If it's not the most current version, you will see an Update button in the **At a Glance** panel:
 
-![](https://make.wordpress.org/training/files/2014/10/dashboard-at-a-glance-update-1.png)
+![dashboard-at-a-glance-update-1](https://user-images.githubusercontent.com/935397/55598151-8ae42900-5766-11e9-9dd8-0c6e39290f93.png)
 
 #### C - Plugins
 
