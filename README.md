@@ -2,7 +2,7 @@
 
 ## Description
 
-In this module you'll learn about the basic troubleshooting steps that can be taken when something goes wrong on your WordPress site.  The lesson will focus on troubleshooting an existing install of WordPress and will not deal with issues during installation.  This basic troubleshooting will fix a lot of common issues avoiding the need to spend hours researching and waiting for answers on the WordPress Support Forums.
+In this module, you'll learn about the basic troubleshooting steps that can be taken when something goes wrong on your WordPress site.  The lesson will focus on troubleshooting an existing install of WordPress and will not deal with issues during installation.  This basic troubleshooting will fix a lot of common issues avoiding the need to spend hours researching and waiting for answers on the WordPress Support Forums.
 
 * * *
 
